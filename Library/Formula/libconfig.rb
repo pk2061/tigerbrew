@@ -1,8 +1,8 @@
 class Libconfig < Formula
   desc "Configuration file processing library"
   homepage "http://www.hyperrealm.com/libconfig/"
-  url "http://www.hyperrealm.com/libconfig/libconfig-1.5.tar.gz"
-  sha256 "e31daa390d8e4461c8830512fe2e13ba1a3d6a02a2305a02429eec61e68703f6"
+  url "https://hyperrealm.github.io/libconfig/dist/libconfig-1.7.2.tar.gz"
+  sha256 "7c3c7a9c73ff3302084386e96f903eb62ce06953bb1666235fac74363a16fad9"
 
   bottle do
     cellar :any
